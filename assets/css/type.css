@@ -1,0 +1,52 @@
+.job-title {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+.space {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.date {
+    text-align: right;
+}
+
+nav li {
+    text-transform: uppercase;
+}
+
+.bg6 {
+    color: #800080;
+}
+
+.bg2 {
+    color: #F9F6EE;
+    
+}
+
+.bg2 li a:visited {
+    color: #F9F6EE;
+}
+
+.bg2 li a {
+    color: #F9F6EE;
+    text-decoration: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.headline h1 {
+    font-size: 100px;
+    text-transform: uppercase;
+    @media screen and (max-width: 900px) {
+        font-size: 50px;
+    }
+}
+
